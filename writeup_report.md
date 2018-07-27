@@ -84,7 +84,3 @@ hPrime is a 6x7 matrix all elements are zero, except (1, 1), (2, 2), (3, 3), (4,
 zFromX could be obtained from the ekfState vector, the first six elements.
 
 z and R_GPS was already defined.
-
-
-# TODO OLD
-This implementation is based on the Lesson 4 - 3D Drone-Full- notebook in the lesson, and the python solution implementation.
